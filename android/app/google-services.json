@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3400063784",
+    "project_id": "phone-otp-fcbfb",
+    "storage_bucket": "phone-otp-fcbfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3400063784:android:8ebc9bf1bd3603e8498e1d",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3400063784-okgr7edmfspjtbo3a4s5vnc67okkncnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelvTSACh5Glie0dDNE2ifsQ6dhiealaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3400063784-okgr7edmfspjtbo3a4s5vnc67okkncnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
